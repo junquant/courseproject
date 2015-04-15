@@ -1,4 +1,4 @@
-#This codebook describes the columns in the final data set **aggData** that is output by the R Script run_analysis.R.
+##This codebook describes the columns in the final data set **aggData** that is output by the R Script run_analysis.R.
 
 * **SubjectID**: Each number uniquely identifies the subject who performed the activity. the SubjectID ranges from 1 to 30.
 
