@@ -60,4 +60,4 @@ aggData <- aggData %>%
                 summarise_each(funs(mean))
 
 # Write the data set
-write.table(aggData,"submission.txt")
+write.table(aggData,"submission.txt", row.name=FALSE)
